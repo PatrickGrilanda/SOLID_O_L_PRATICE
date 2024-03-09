@@ -1,0 +1,16 @@
+{
+    "name": "patri/solid_o_l_pratice",
+    "description": "Praticando as Letras O e L do Solid",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "PatrickGrilanda",
+            "email": "patrick.grilanda26@gmail.com"
+        }
+    ],
+    "require": {}
+}
